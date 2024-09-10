@@ -12,7 +12,7 @@ Below are the instructions for setting up, deploying, and testing the applicatio
 
 Clone the repository:
 ```bash
-git clone https://github.com/pgoulas/room-cleaner.git
+git clone https://github.com/pgoulas/robot-navigation.git
 cd room-cleaner
 ```
 
